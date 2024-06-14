@@ -68,12 +68,12 @@
           "description": "Target 11.0.10 (Latest stable)"
         },
         {
-          "choice": "11.1.0-beta2",
-          "description": "Target 11.1.0-beta2 (Next version)"
+          "choice": "11.1.0-rc1",
+          "description": "Target 11.1.0-rc1 (Next version)"
         }
       ],
       "replaces": "AvaloniaVersionTemplateParameter",
-      "defaultValue": "11.1.0-beta2"
+      "defaultValue": "11.1.0-rc1"
     },
     "UseCompiledBindings": {
       "type": "parameter",
